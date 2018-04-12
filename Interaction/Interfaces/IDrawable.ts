@@ -1,0 +1,4 @@
+interface IDrawable {
+    Clear();
+    Draw();
+}
